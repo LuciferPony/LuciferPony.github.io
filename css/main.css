@@ -1,0 +1,52 @@
+table {
+    border-collapse: collapse;
+    border: 1px solid #000000;
+}
+
+td {
+border: 1px solid #000000;
+width: 5px;
+height: 5px;   
+background-color: #ffffff;
+}
+
+.empty {
+    background-color: #ffffff;
+}
+
+.head {
+    background-color: #54030f;
+}
+
+.body {
+    background-color: #84030c;
+}
+
+.apple {
+    background-color: #02330b;
+}
+
+.gameOver {
+    background-color: #510110;
+}
+
+.demogorgon {
+    display: none;
+}
+.nowyouseeme {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.black-block {
+    background-color: #000000;
+}
+
+.green-block {
+    background-color: #157f6c;
+}
